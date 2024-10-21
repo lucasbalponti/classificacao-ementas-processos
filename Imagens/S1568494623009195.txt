@@ -1,0 +1,11 @@
+F.C. Souza, R.F. Nogueira, R.A. Lotufo,
+BERT models for Brazilian Portuguese: Pretraining, evaluation and tokenization analysis,
+Applied Soft Computing,
+Volume 149, Part A,
+2023,
+110901,
+ISSN 1568-4946,
+https://doi.org/10.1016/j.asoc.2023.110901.
+(https://www.sciencedirect.com/science/article/pii/S1568494623009195)
+Abstract: Recent advances in language representation using neural networks have made it viable to transfer the learned internal states of large pretrained language models (LMs) to downstream natural language processing (NLP) tasks. This transfer learning approach improves the overall performance on many tasks and is highly beneficial when labeled data is scarce, making pretrained LMs valuable resources specially for languages with few annotated training examples. In this work, we train BERT (Bidirectional Encoder Representations from Transformers) models for Brazilian Portuguese, which we nickname BERTimbau. We evaluate our models on three downstream NLP tasks: sentence textual similarity, recognizing textual entailment, and named entity recognition. Our models improve the state-of-the-art in all of these tasks, outperforming Multilingual BERT and confirming the effectiveness of large pretrained LMs for Portuguese. We release our models to the community hoping to provide strong baselines for future NLP research: https://github.com/neuralmind-ai/portuguese-bert.
+Keywords: Language model; BERT; Sentence textual similarity; Recognizing textual entailment; Named entity recognition
